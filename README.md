@@ -52,7 +52,8 @@ The app is hosted on **Vercel**. To deploy:
 Since TMDB API access is restricted in some regions, you may need a **VPN** to use this app properly.
 
 ## 📸 Preview
-![Movie Web App](webpreview.png)
+![Movie Web App]
+<img src="./webpreview.png" alt="movie_mate_layout">
 
 ## 📝 License
 This project is licensed under the **MIT License**.
