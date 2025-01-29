@@ -53,7 +53,7 @@ Since TMDB API access is restricted in some regions, you may need a **VPN** to u
 
 ## 📸 Preview
 ![Movie Web App]
-<img src="./webpreview.png" alt="movie_mate_layout">
+<img src="https://github.com/srm04072024/movie_mate/blob/main/public/webpreview.png" alt="movie_mate_layout">
 
 ## 📝 License
 This project is licensed under the **MIT License**.
